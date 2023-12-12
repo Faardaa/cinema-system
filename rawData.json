@@ -1,0 +1,938 @@
+{
+    "Angry Men": {
+        "image": "angrymen.jpg",
+        "id": 1,
+        "seatInfo": [
+            {
+                "seatNumber": 1,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 2,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 3,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 4,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 5,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 6,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 7,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 8,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 9,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 10,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 11,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 12,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 13,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 14,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 15,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 16,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 17,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 18,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 19,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 20,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 21,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 22,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 23,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 24,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 25,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            }
+        ]
+    },
+    "God Father": {
+        "image": "godfather.jpg",
+        "id": 2,
+        "seatInfo": [
+            {
+                "seatNumber": 1,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 2,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 3,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 4,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 5,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 6,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 7,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 8,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 9,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 10,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 11,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 12,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 13,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 14,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 15,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 16,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 17,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 18,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 19,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 20,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 21,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 22,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 23,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 24,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 25,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            }
+        ]
+    },
+    "God Father II": {
+        "image": "godfather2.jpg",
+        "id": 3,
+        "seatInfo": [
+            {
+                "seatNumber": 1,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 2,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 3,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 4,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 5,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 6,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 7,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 8,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 9,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 10,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 11,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 12,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 13,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 14,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 15,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 16,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 17,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 18,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 19,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 20,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 21,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 22,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 23,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 24,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 25,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            }
+        ]
+    },
+    "The Lord of the Rin": {
+        "image": "loftr.jpg",
+        "id": 4,
+        "seatInfo": [
+            {
+                "seatNumber": 1,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 2,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 3,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 4,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 5,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 6,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 7,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 8,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 9,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 10,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 11,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 12,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 13,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 14,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 15,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 16,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 17,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 18,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 19,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 20,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 21,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 22,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 23,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 24,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 25,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            }
+        ]
+    },
+    "Pulp Fiction": {
+        "image": "pulpfiction.jpg",
+        "id": 5,
+        "seatInfo": [
+            {
+                "seatNumber": 1,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 2,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 3,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 4,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 5,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 6,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 7,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 8,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 9,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 10,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 11,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 12,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 13,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 14,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 15,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 16,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 17,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 18,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 19,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 20,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 21,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 22,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 23,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 24,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 25,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            }
+        ]
+    },
+    "Schindler's List": {
+        "image": "schindlerslist.jpg",
+        "id": 6,
+        "seatInfo": [
+            {
+                "seatNumber": 1,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 2,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 3,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 4,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 5,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 6,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 7,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 8,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 9,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 10,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 11,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 12,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 13,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 14,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 15,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 16,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 17,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 18,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 19,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 20,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 21,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 22,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 23,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 24,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            },
+            {
+                "seatNumber": 25,
+                "seatOccupied": 0,
+                "buyerName": "",
+                "amount": 0
+            }
+        ]
+    }
+}
