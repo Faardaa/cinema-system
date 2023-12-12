@@ -28,7 +28,7 @@ Password Hashing: User passwords are securely hashed using the SHA-256 algorithm
 Restricted Access: This application is intended for cinema workers, not general users, ensuring a secure and controlled environment.
 
 Clone the Repository:
-git clone https://github.com/Faardaa/cinema-ticket-booking.git
+git clone https://github.com/Faardaa/cinema-system.git
 
 Install Dependencies:
 pip install -r requirements.txt
