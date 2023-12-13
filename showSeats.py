@@ -100,7 +100,7 @@ class showSeats(QWidget):
         jsonFile.close() #close the file
         
         # Use loop for cleaning up all seat registrations
-        for seat in range(25):
+        for seat in range(len(self.film.seatInfo)):
             jsonData[f"{self.film.filmName}"]['seatInfo'][seat - 1]['seatOccupied'] = 0
             jsonData[f"{self.film.filmName}"]['seatInfo'][seat - 1]['buyerName'] = ""
             jsonData[f"{self.film.filmName}"]['seatInfo'][seat - 1]['amount'] = 0
