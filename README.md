@@ -34,6 +34,5 @@ User passwords are securely stored using hashed encryption 🔐.
 Feedback 🚀
 This project is a part of my learning journey, and your feedback is highly appreciated. Feel free to explore, customize, and share your thoughts. May your code be bug-free, and your popcorn always fresh! 🚀🍿
 
-Contact:
 Developer: Farda Ahmadli
 Email: ahmadlifarda@gmail.com
